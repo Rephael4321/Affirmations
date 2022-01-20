@@ -13,4 +13,3 @@ In this application I performed:
 5. Changing theme and icon for app
 6. Instrumentation testing and unit testing
 7. Configuring dependecies in gradle config file
-8. 
